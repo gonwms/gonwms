@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gonwms
-- ✌ REACT!!
+- ✌ React!! - 💧 Typescript - 🐱‍🚀 Sass - 🧶 Gsap
+ 
 - 🚀 I’m always learning. 
 - 📫 How to reach me: gon.williams@gmail.com
 
